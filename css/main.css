@@ -1,0 +1,104 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: red;
+
+  background-color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  background-color: rgb(255, 0, 0);
+  background-color: rgb(0, 255, 0);
+  background-color: rgb(0, 0, 255);
+  background-color: rgb(0, 128, 255);
+  background-color: rgb(90, 200, 200); /* [0..255]; 7.5 */
+
+  background-color: #ff0000;
+  background-color: #00ff00;
+  background-color: #0000ff;
+
+  background-color: #654497;
+}
+
+header {
+  background-color: #ff0000;
+  background-color: #f00;
+  background-color: #00ff00;
+  background-color: #0f0;
+  background-color: #0000ff;
+  background-color: #00f;
+
+  background-color: #112233;
+  background-color: #123;
+
+  background-color: #cc9933;
+  background-color: #c93;
+
+  background-color: #88dd44;
+  background-color: #8d4;
+
+  background-color: #f93;
+  background-color: #ff9933;
+}
+
+header > img {
+  background-color: rgb(255, 0, 0);
+  background-color: rgba(255, 0, 0, 1);
+  background-color: rgba(255, 0, 0, 0);
+  background-color: rgba(255, 0, 0, 0.5);
+  background-color: rgba(255, 0, 0, 0.00001);
+  background-color: rgba(255, 0, 0, 0.32145);
+  background-color: rgba(255, 0, 0, 0.9999999);
+
+  background-color: rgba(255, 0, 0, 0.5);
+  background-color: #ff000080;
+}
+
+nav {
+}
+
+nav > a {
+}
+
+main {
+}
+
+main > div {
+}
+
+div > p:nth-of-type(1) {
+  background-color: yellow;
+}
+div > p:nth-of-type(2) {
+  background-color: green;
+}
+div > p:nth-of-type(3) {
+  background-color: red;
+}
+
+div > div:nth-of-type(1) {
+  background-color: blue;
+}
+div > div:nth-of-type(2) {
+  background-color: violet;
+}
+
+div > div:nth-of-type(2) > a:first-child {
+}
+div > div:nth-of-type(2) > a:last-child {
+}
+
+main > img {
+}
+
+footer {
+}
+
+footer > div {
+}
+
+footer > div > a {
+}
+
+footer > p {
+}
