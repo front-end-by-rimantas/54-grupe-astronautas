@@ -22,15 +22,15 @@ Design: https://dribbble.com/shots/5964475-404-Lost-in-Space
 -   ~~Github pages~~
 -   ~~big screen only (no responsive design)~~
 -   ~~fixed width and in the center of the screen~~
--   social icons (FontAwesome)
--   Google Fonts
+-   ~~social icons (FontAwesome)~~
+-   ~~Google Fonts~~
 -   ~~favicon~~
 -   ~~copyright symbol~~
 -   ~~button: user select none~~
--   advanced CSS selectors:
+-   ~~advanced CSS selectors:~~
     -   ~~button: hover state~~
     -   ~~main nav: hover state~~
-    -   main nav: selected menu option
+    -   ~~main nav: selected menu option~~
 
 ## 🧰 Getting Started
 
